@@ -1,0 +1,17 @@
+D:\SoftwareDevelopment\ASP.NET MVC(.Net6)\BulkyBookWeb\BulkyBook.DataAccess\bin\Debug\net6.0\BulkyBook.DataAccess.deps.json
+D:\SoftwareDevelopment\ASP.NET MVC(.Net6)\BulkyBookWeb\BulkyBook.DataAccess\bin\Debug\net6.0\BulkyBook.DataAccess.runtimeconfig.json
+D:\SoftwareDevelopment\ASP.NET MVC(.Net6)\BulkyBookWeb\BulkyBook.DataAccess\bin\Debug\net6.0\BulkyBook.DataAccess.dll
+D:\SoftwareDevelopment\ASP.NET MVC(.Net6)\BulkyBookWeb\BulkyBook.DataAccess\bin\Debug\net6.0\BulkyBook.DataAccess.pdb
+D:\SoftwareDevelopment\ASP.NET MVC(.Net6)\BulkyBookWeb\BulkyBook.DataAccess\bin\Debug\net6.0\BulkyBook.Models.dll
+D:\SoftwareDevelopment\ASP.NET MVC(.Net6)\BulkyBookWeb\BulkyBook.DataAccess\bin\Debug\net6.0\BulkyBook.Models.pdb
+D:\SoftwareDevelopment\ASP.NET MVC(.Net6)\BulkyBookWeb\BulkyBook.DataAccess\obj\Debug\net6.0\BulkyBook.DataAccess.csproj.AssemblyReference.cache
+D:\SoftwareDevelopment\ASP.NET MVC(.Net6)\BulkyBookWeb\BulkyBook.DataAccess\obj\Debug\net6.0\BulkyBook.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftwareDevelopment\ASP.NET MVC(.Net6)\BulkyBookWeb\BulkyBook.DataAccess\obj\Debug\net6.0\BulkyBook.DataAccess.AssemblyInfoInputs.cache
+D:\SoftwareDevelopment\ASP.NET MVC(.Net6)\BulkyBookWeb\BulkyBook.DataAccess\obj\Debug\net6.0\BulkyBook.DataAccess.AssemblyInfo.cs
+D:\SoftwareDevelopment\ASP.NET MVC(.Net6)\BulkyBookWeb\BulkyBook.DataAccess\obj\Debug\net6.0\BulkyBook.DataAccess.csproj.CoreCompileInputs.cache
+D:\SoftwareDevelopment\ASP.NET MVC(.Net6)\BulkyBookWeb\BulkyBook.DataAccess\obj\Debug\net6.0\BulkyBook.DataAccess.csproj.CopyComplete
+D:\SoftwareDevelopment\ASP.NET MVC(.Net6)\BulkyBookWeb\BulkyBook.DataAccess\obj\Debug\net6.0\BulkyBook.DataAccess.dll
+D:\SoftwareDevelopment\ASP.NET MVC(.Net6)\BulkyBookWeb\BulkyBook.DataAccess\obj\Debug\net6.0\refint\BulkyBook.DataAccess.dll
+D:\SoftwareDevelopment\ASP.NET MVC(.Net6)\BulkyBookWeb\BulkyBook.DataAccess\obj\Debug\net6.0\BulkyBook.DataAccess.pdb
+D:\SoftwareDevelopment\ASP.NET MVC(.Net6)\BulkyBookWeb\BulkyBook.DataAccess\obj\Debug\net6.0\BulkyBook.DataAccess.genruntimeconfig.cache
+D:\SoftwareDevelopment\ASP.NET MVC(.Net6)\BulkyBookWeb\BulkyBook.DataAccess\obj\Debug\net6.0\ref\BulkyBook.DataAccess.dll
